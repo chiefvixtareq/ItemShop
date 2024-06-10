@@ -1,12 +1,12 @@
-CID_547_Athena_Commando_F_Meteorwoman, 2500
-EID_LetsBegin_Beyond, 2000
+CID_387_Athena_Commando_F_Golf, 1200
+EID_IndigoApple, 500
 na
 na
 na
 na
-CID_027_Athena_Commando_F, 1200
-Pickaxe_ID_224_Butterfly, 500
-EID_KEagle, 500
-EID_Everytime, 700
-CID_356_Athena_Commando_F_Farmer, 800
-Glider_ID_118_Squishy, 300
+CID_616_Athena_Commando_F_CavalryBandit, 1200
+Pickaxe_ID_179_StarWand, 800
+EID_Laugh, 500
+Pickaxe_ID_190_GolfClub, 850
+CID_546_Athena_Commando_F_TacticalRed, 800
+Wrap_018_Magma, 700
